@@ -638,3 +638,11 @@ button:hover,
 .button.button-letterboxd:focus {
   filter: brightness(90%);
 }
+/* F95Zone */
+.button.button-f95zone {
+  color: #242629;
+  background-color: #8f3a3a;
+}
+.button.button-f95zone:hover,
+.button.button-f95zone:focus {
+  filter: brightness(90%);
