@@ -638,3 +638,54 @@ button:hover,
 .button.button-letterboxd:focus {
   filter: brightness(90%);
 }
+
+/* F95Zone */
+.button.button-f95zone {
+  color: #ffffff;
+  background-color: #7d2929;
+}
+.button.button-f95zone:hover,
+.button.button-f95zone:focus {
+  filter: brightness(90%);
+}
+
+/* SubscribeStar */
+.button.button-subscribestar {
+  color: #ffffff;
+  background-color: #ff4081;
+}
+.button.button-subscribestar:hover,
+.button.button-subscribestar:focus {
+  filter: brightness(90%);
+}
+
+/* Itch io */
+.button.button-itchio {
+  color: #ffffff;
+  background-color: #fa5c5c;
+}
+.button.button-itchio:hover,
+.button.button-itchio:focus {
+  filter: brightness(90%);
+}
+
+/* Lewdpixels */
+.button.button-Lewdpixels {
+  color: #ffffff;
+  background-color: #871b86;
+}
+.button.button-Lewdpixels:hover,
+.button.button-Lewdpixels:focus {
+  filter: brightness(90%);
+}
+
+/* Spicygaming */
+.button.button-Spicygaming {
+  color: #ffffff;
+  background-color: #808080;
+}
+.button.button-Spicygaming:hover,
+.button.button-Spicygaming:focus {
+  filter: brightness(90%);
+}
+
