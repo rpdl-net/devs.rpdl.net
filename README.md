@@ -2,6 +2,8 @@ a linktr.ee alternative for developers, built using https://github.com/sethcottl
 
 ---
 
-to add page for a developer:
-1. copy example folder and rename it to developers name
-2. update the index.html inside with links to their various stuff.
+Contributions are welcome!
+
+the `example` folder contains a boilerplate, have fun!
+
+if you've any questions, either join us on [Discord](https://rpdl.net/discord) or open an issue here!
