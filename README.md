@@ -1,13 +1,11 @@
-a linktr.ee alternative for developers, built using https://github.com/sethcottle/littlelink
+A linktr.ee alternative for developers, built using [littlelink](https://github.com/sethcottle/littlelink)
 
----
+[Index page](https://devs.rpdl.net)
 
-An avatar is optional if you'd like [Example](https://devs.rpdl.net/lefrench)
+* An avatar is optional. [Example](https://devs.rpdl.net/lefrench)
 
----
+* If you have a link that we don't have a class for, let us know and we'll put one together. 
 
-Contributions are welcome!
+* the `example` folder contains a boilerplate, have fun!
 
-the `example` folder contains a boilerplate, have fun!
-
-if you've any questions, either join us on [Discord](https://rpdl.net/discord) or open an issue here!
+If you're a developer and you'd like a page, either open an issue (or a PR!) or hop on [our Discord](https://rpdl.net/discord) and ask - it's 100% free.
