@@ -696,6 +696,28 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Slushe */
+.button.button-slushe {
+  color: #ffffff;
+  background-color: #850462;
+}
+.button.button-slushe:hover,
+.button.button-slushe:focus {
+  filter: brightness(90%);
+}
+
+/* Deviant Art */
+.button.button-deviantart {
+  color: #ffffff;
+  background-color: #086928;
+}
+.button.button-deviantart:hover,
+.button.button-deviantart:focus {
+  filter: brightness(90%);
+}
+
+
+
 /* Index Styles */
 
 
