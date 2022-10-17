@@ -2,6 +2,10 @@ a linktr.ee alternative for developers, built using https://github.com/sethcottl
 
 ---
 
+An avatar is optional if you'd like [Example](https://devs.rpdl.net/lefrench)
+
+---
+
 Contributions are welcome!
 
 the `example` folder contains a boilerplate, have fun!
