@@ -71,6 +71,13 @@ button:hover,
   height: 20px;
 }
 
+.icon-dev {
+  padding: 0px 8px 3.5px 0px;
+  vertical-align: middle;
+  width: 32px;
+  height: 32px;
+}
+
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -689,3 +696,65 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Index Styles */
+
+
+/* Style 1 */
+.button.button-style1 {
+  color: #ffffff;
+  background-image: radial-gradient(circle, rgba(131, 58, 180, 0.74) 0%, rgba(253, 29, 29, 0.801) 50%, rgba(252, 176, 69, 0.74) 100%);
+}
+.button.button-style1:hover,
+.button.button-style1:focus {
+  filter: brightness(90%);
+}
+
+/* Style 2 */
+.button.button-style2 {
+  color: #ffffff;
+  background-image: radial-gradient(circle, rgba(135, 58, 180, 0.74) 0%, rgba(253,155,29,1) 50%, rgba(252, 69, 191, 0.801) 100%);
+}
+.button.button-style2:hover,
+.button.button-style2:focus {
+  filter: brightness(90%);
+}
+
+/* Style 3 */
+.button.button-style3 {
+  color: #ffffff;
+  background-image: radial-gradient(circle, rgba(100,58,180,1) 0%, rgba(253,83,29,1) 50%, rgba(93, 69, 252, 0.774) 100%);
+}
+.button.button-style3:hover,
+.button.button-style3:focus {
+  filter: brightness(90%);
+}
+
+/* Style 4 */
+.button.button-style4 {
+  color: #ffffff;
+  background-image: radial-gradient(circle, rgba(141,58,180,1) 0%, rgba(29,253,177,0.856162447889312) 50%, rgba(218, 69, 252, 0.795) 100%);
+}
+.button.button-style4:hover,
+.button.button-style4:focus {
+  filter: brightness(90%);
+}
+
+/* Style 5 */
+.button.button-style5 {
+  color: #ffffff;
+  background-image: radial-gradient(circle, rgb(65, 149, 182) 0%, rgba(184, 219, 28, 0.879) 50%, rgba(102, 17, 187, 0.808) 100%);
+}
+.button.button-style5:hover,
+.button.button-style5:focus {
+  filter: brightness(90%);
+}
+
+/* Style 6 */
+.button.button-style6 {
+  color: #ffffff;
+  background-image: radial-gradient(circle, rgba(2,99,89,1) 0%, rgb(93, 133, 120) 50%, rgba(7, 16, 145, 0.863) 100%);
+}
+.button.button-style6:hover,
+.button.button-style6:focus {
+  filter: brightness(90%);
+}
