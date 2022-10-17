@@ -716,6 +716,15 @@ button:hover,
   filter: brightness(90%);
 }
 
+.button.button-artstation {
+  color: #ffffff;
+  background-color: #10698f;
+}
+.button.button-artstation:hover,
+.button.button-artstation:focus {
+  filter: brightness(90%);
+}
+
 
 
 /* Index Styles */
