@@ -1,0 +1,78 @@
+  html {
+    font-size: 100%;
+    color-scheme: dark;
+  }
+  body {
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+      sans-serif;
+  }
+  .container {
+    position: relative;
+    width: 100%;
+    max-width: 1100px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+  .column {
+    position: center;
+    width: 100%;
+    float: center;
+    box-sizing: border-box;
+  }
+  
+  /* For devices larger than 400px */
+  @media (min-width: 400px) {
+    .container {
+      width: 85%;
+      padding: 0;
+    }
+  }
+  
+  /* For devices larger than 550px */
+  @media (min-width: 550px) {
+    .container {
+      width: 80%;
+    }
+    .column,
+    .columns {
+      margin-left: 0;
+    }
+    .column:first-child,
+    .columns:first-child {
+      margin-left: 0;
+    }
+  }
+  
+  p {
+    margin-top: 0;
+  }
+
+  a {
+    color: #0085ff;
+  }
+  a:hover {
+    color: #0085ff;
+  }
+
+  button,
+  .button {
+    margin-bottom: 1rem;
+  }
+
+  p {
+    margin-bottom: 2.5rem;
+  }
+
+  .avatar {
+    width: 128px;
+    height: 128px;
+    object-fit: cover;
+    background-position: center;
+    border-radius: 50%;
+  }
+  
