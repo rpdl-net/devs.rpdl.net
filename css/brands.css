@@ -67,7 +67,7 @@ button:hover,
 .icon {
   padding: 0px 8px 3.5px 0px;
   vertical-align: middle;
-  width: 20px;
+  width: auto;
   height: 20px;
 }
 
