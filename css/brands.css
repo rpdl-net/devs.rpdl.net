@@ -656,6 +656,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Loverslab */
+
+.button.button-loverslab {
+  color: #ffffff;
+  background-color: #41749C;
+}
+.button.button-loverslab:hover,
+.button.button-loverslab:focus {
+  filter: brightness(90%);
+}
+
 /* SubscribeStar */
 .button.button-subscribestar {
   color: #ffffff;
