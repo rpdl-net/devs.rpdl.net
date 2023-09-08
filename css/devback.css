@@ -1,7 +1,7 @@
 /* MoonBox */
 .moon::before {
     content: "";
-    background-image: url('../images/DevBack/Moonback.jpg');
+    background-image: url('../images/dev-bg/Moonback.jpg');
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -18,7 +18,7 @@
 
 .lefrench::before {
     content: "";
-    background-image: url('../images/DevBack/LeFrenchBack.jpg');
+    background-image: url('../images/dev-bg/LeFrenchBack.jpg');
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -35,7 +35,7 @@
 
 .dream::before {
     content: "";
-    background-image: url('../images/DevBack/DreamNowBack.jpg');
+    background-image: url('../images/dev-bg/DreamNowBack.jpg');
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -52,7 +52,7 @@
 
 .aphr::before {
     content: "";
-    background-image: url('../images/DevBack/AphroditeBack.png');
+    background-image: url('../images/dev-bg/AphroditeBack.png');
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -69,7 +69,7 @@
 
 .hachi::before {
     content: "";
-    background-image: url('../images/DevBack/HachiBack.png');
+    background-image: url('../images/dev-bg/HachiBack.png');
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -86,7 +86,7 @@
 
 .moonlight::before {
     content: "";
-    background-image: url('../images/DevBack/MoonLightBack.png');
+    background-image: url('../images/dev-bg/MoonLightBack.png');
     background-size: cover;
     background-position: center;
     position: absolute;
@@ -103,7 +103,7 @@
 
 .kurosawa::before {
     content: "";
-    background-image: url('../images/DevBack/KurosawaBack.png');
+    background-image: url('../images/dev-bg/KurosawaBack.png');
     background-size: cover;
     background-position: center;
     position: absolute;
