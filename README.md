@@ -2,7 +2,7 @@ A linktr.ee alternative for developers, built using [littlelink](https://github.
 
 [Index page](https://devs.rpdl.net)
 
-* An avatar is optional. [Example](https://devs.rpdl.net/lefrench)
+* An avatar is optional. [Example](https://devs.rpdl.net/moonbox)
 
 * If you have a link that we don't have a class for, let us know and we'll put one together. 
 
